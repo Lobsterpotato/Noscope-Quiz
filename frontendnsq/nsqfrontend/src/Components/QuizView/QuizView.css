@@ -1,0 +1,18 @@
+.cardHolder {
+    max-width: 100%;
+}
+
+.quizTitle {
+    font-size: 2rem !important;
+    line-height: 1;
+}
+
+.quizDescription {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+Button {
+    margin: 1rem 2px;
+}
